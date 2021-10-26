@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffl562
 - 👀 I’m interested in ... making clouds easier to use
-- 🌱 I’m currently learning ... GCP
-- 💞️ I’m looking to collaborate on ... cloud comparisons
+- 🌱 I’m currently learning ... how to deploy to multiple clouds
+- 💞️ I’m looking to collaborate on ... cloud ease of use
 - 📫 How to reach me ...
 
 <!---
